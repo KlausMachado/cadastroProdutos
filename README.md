@@ -29,19 +29,20 @@ O projeto é composto por três arquivos principais:
    ```bash
    git clone https://github.com/seu-usuario/sistema-cadastro-produtos.git
 
-2. Acesse o diretório:
 
-cd sistema-cadastro-produtos
+2. Acesse o diretório:
+   ```bash
+   cd sistema-cadastro-produtos
 
 
 3. Certifique-se de que você tem o Python 3 instalado:
-
-python --version
+   ```bash
+   python --version
 
 
 4. Execute o programa:
-
-python main.py
+   ```bash
+   python main.py
 
 
 
