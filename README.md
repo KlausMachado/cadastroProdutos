@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Produtos
 
-Este é um projeto de cadastro de produtos desenvolvido em Python, utilizando os conceitos de **acoplamento** e **coesão**. O programa permite realizar operações básicas de CRUD (Criar, Consultar, Alterar e Excluir) em uma base de dados simples armazenada em um arquivo de texto.
+Este é um projeto de cadastro de produtos desenvolvido em Python durante graduação na Gran Faculdades, utilizando os conceitos de **acoplamento** e **coesão**. O programa permite realizar operações básicas de CRUD (Criar, Consultar, Alterar e Excluir) em uma base de dados simples armazenada em um arquivo de texto.
 
 ## 📋 Funcionalidades
 
